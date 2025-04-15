@@ -25,11 +25,10 @@ div.highlighter-rouge, figure.highlight {
     text-transform: none;
     speak: none;
   }
-
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-6;
+    font-size: $type-size-syntax;
     line-height: 1.8;
   }
 }

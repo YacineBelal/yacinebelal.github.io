@@ -22,10 +22,10 @@ repository               : "YacineBelal/yacinebelal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Yacine Belal"
   pronouns         : # example: "she/her"  
-  bio: "🤖 Distributed ML | 🔒 Privacy Preservation | 🎯 Robust Optimization"
+  bio: "PhD Candidate" #"🤖 Distributed ML | 🔒 Privacy Preservation | 🎯 Robust Optimization"
   location         : "Lyon, France"
   employer: "National Institute<br>of Applied Sciences"
   uri              : # URL
