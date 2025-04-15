@@ -7,6 +7,6 @@ excerpt: 'Introduces PEPPER, a decentralized gossip-based framework for recommen
 date: 2022-09-15
 venue: 'IMWUT (UbiComp)'
 paperurl: 'https://doi.org/10.1145/3550302'
-bibtexurl: '/files/belal2022pepper.bib'
+# bibtexurl: '/files/belal2022pepper.bib'
 citation: 'Yacine Belal, Aurélien Bellet, Sonia Ben Mokhtar, Vlad Nitu. (2022). "PEPPER." <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i>, 6(3), 101:1–101:27.'
 ---
