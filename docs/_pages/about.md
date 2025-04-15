@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% include hero.html title="Yacine Belal" text="PhD Candidate \| Distributed ML \| Privacy \| Adversarial Learning" %}
 
 I am a final-year PhD candidate at **INSA Lyon**, working on **privacy-preserving and decentralized machine learning**. My research explores the intersection of:
 
