@@ -13,7 +13,6 @@ I am a final-year PhD candidate at **INSA Lyon**, working on **privacy-preservin
 - **Federated and Gossip Learning**
 - **Privacy-Enhancing Technologies**
 - **Adversarial behavior and robustness**
-- **User-centric and collaborative systems**
 
 I will defend my thesis in **June 2025**, and I am currently seeking **postdoctoral opportunities** starting in Fall 2025.
 

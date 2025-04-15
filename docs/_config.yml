@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Lyon, France"
-  employer         : "National Institute of Applied Sciences"
+  employer: "National Institute<br>of Applied Sciences"
   uri              : # URL
   email            : "yacine.belal@insa-lyon.fr" 
 
