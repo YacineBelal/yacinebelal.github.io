@@ -1,20 +1,21 @@
 ---
 permalink: /
-title: "Yacine Belal"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a final-year PhD candidate at **INSA Lyon**, working on **privacy-preserving and decentralized machine learning**. My research explores the intersection of:
+I am a final-year PhD candidate at **INSA Lyon**, supervised by [Dr. Sonia Ben Mokhtar](https://sites.google.com/view/sonia-benmokhtar/accueil). My research so far has been devoted to building **trustworthy distributed/decentralized ML systems** (or to breaking them 😈). This has led me to explore a range of exciting topics:
 
-- **Distributed Machine Learning**
-- **Federated and Gossip Learning**
-- **Privacy-Enhancing Technologies**
-- **Adversarial behavior and robustness**
+- Federated and gossip-based learning architectures 
+- Semi-honest adversarial model (Membership Inference, Model Inversion, Attribute Inference...)
+- PETs: Differentially private SGD, Secure Multiparty Computation
+- Dishonest adversarial model (untargeted poisoning, backdoors)
+- Robust optimization techniques
 
-I will defend my thesis in **June 2025**, and I am currently seeking **postdoctoral opportunities** starting in Fall 2025.
+I will defend my thesis in **June 2025**, and I am currently seeking **postdoctoral opportunities** starting Fall 2025, at the intersection of Distributed Systems and Machine Learning — with possible extensions toward LLMs, federated foundation models, or XAI in decentralized settings 👀.
 
 
 ## Quick Links
