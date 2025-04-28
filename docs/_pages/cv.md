@@ -13,15 +13,15 @@ redirect_from:
 
 **Ph.D. in Computer Science**, *INSA Lyon & iExec Blockchain Tech, Lyon*  
 *Jan. 2022 – June 2025 (expected)*  
-**Thesis:** *Collaborative Learning: Personalization, Privacy, and Robustness at the Edge*  
+**Thesis:** *Trustworthy Collaborative Learning: Personalization, Privacy, and Robustness at the Edge*  
 **Advisor:** Dr. Sonia Ben Mokhtar  
-<!-- **Defense date:** June 10, 2025   -->
 
 **M.Sc. in Computer Science**, *University of Western Brittany, Brest*  
 *Sep. 2019 – Sep. 2021*  
 **Specialization:** *Intelligent, Interactive, and Autonomous Systems*
 
-**B.Sc. in Computer Science**, *University of Science and Technology Houari Boumediene (USTHB), Algiers*  *Sep. 2015 – June 2018*  
+**B.Sc. in Computer Science**, *University of Science and Technology Houari Boumediene (USTHB), Algiers*  
+*Sep. 2015 – June 2018*  
 **Track:** *Academic Computer Science*
 
 ---
@@ -30,7 +30,7 @@ redirect_from:
 
 **Programming:** Python, C++, CUDA, Java  
 **Machine Learning Frameworks:** PyTorch, Scikit-Learn  
-**Privacy-Enhancing Technologies:** Differential Privacy (Octopus, DP-SGD)  
+**Privacy-Enhancing Technologies:** Differential Privacy (Tensorflow Privacy, DP-SGD)  
 **Collaboration Tools:** Git, Docker, Weights & Biases
 
 ---
