@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 **Ph.D. in Computer Science**, *INSA Lyon & iExec Blockchain Tech, Lyon*  
-*Jan. 2022 – June 2025 (expected)*  
+*Jan. 2022 – June 2025*  
 **Thesis:** *Trustworthy Collaborative Learning: Personalization, Privacy, and Robustness at the Edge*  
 **Advisor:** Dr. Sonia Ben Mokhtar  
 
